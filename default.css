@@ -1,0 +1,32 @@
+html {
+	background-color: black;
+	color: red;
+}
+
+header {
+	text-align: center;
+}
+
+.column-1 {
+	width: 50%;
+	float: left;
+	display: inline-block;
+	text-align: center;
+}
+
+.column-2 {
+	width: 50%;
+	float: left;
+	display: inline-block;
+	text-align: center;
+}
+
+footer {
+	color: gray;
+	text-align: center;
+	margin-top: 15em;
+}
+
+footer div {
+	text-align: center;
+}
