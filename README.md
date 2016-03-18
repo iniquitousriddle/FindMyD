@@ -1,7 +1,7 @@
 # iniquitousriddle.github.io
 
 ## Owners ##
-*Jameson Welling
-..*(https://github.com/jamowelling "Jameson's GitHub account")
-*Noah Schutte
-..*(https://github.com/noahschutte "Noah's GitHub account")
+* Jameson Welling
+[Jameson's GitHub Account](https://github.com/jamowelling)
+* Noah Schutte
+[Noah's GitHub Account](https://github.com/noahschutte)
