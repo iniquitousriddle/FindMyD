@@ -1,10 +1,28 @@
+@font-face {
+    font-family: bannerFont;
+    src: url(fonts/believer_fever.otf);
+}
+
 html {
 	background-color: white;
 	color: navy;
 }
 
+body {
+    
+}
+
 header {
 	text-align: center;
+}
+
+h1 {
+    width: 100%;
+    background-color:navy;
+    color: white;
+    font: normal 42pt;
+    font-family: "Kaushan Script", cursive;
+    letter-spacing: 4px;
 }
 
 .column-1 {
