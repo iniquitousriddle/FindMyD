@@ -1,50 +1,21 @@
-@font-face {
-    font-family: bannerFont;
-    src: url(fonts/believer_fever.otf);
+header, h2, .about, #resource_list{
+    text-align: center;
 }
 
-html {
-	background-color: white;
-	color: navy;
-}
-
-body {
-    
+#site_title {
+    font-family: "kaushan script", cursive;
+    font-size: 38pt;
 }
 
 header {
-	text-align: center;
+    background-color: #1f1f47;
+    color: white;
 }
 
 h1 {
-    width: 100%;
-    background-color:navy;
-    color: white;
-    font: normal 42pt;
-    font-family: "Kaushan Script", cursive;
-    letter-spacing: 4px;
+    text-shadow: -0.03em -0.03em 0 rgba(0,0,0,0.4);
 }
 
-.column-1 {
-	width: 50%;
-	float: left;
-	display: inline-block;
-	text-align: center;
-}
-
-.column-2 {
-	width: 50%;
-	float: left;
-	display: inline-block;
-	text-align: center;
-}
-
-footer {
-	color: gray;
-	text-align: center;
-	margin-top: 15em;
-}
-
-footer div {
-	text-align: center;
+h2 {
+    text-shadow: 1px 1px 0.03em rgba(0,0,0,0.5);
 }
